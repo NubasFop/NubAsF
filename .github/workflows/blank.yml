@@ -30,7 +30,7 @@ jobs:
 
       run: |
 
-        Invoke-WebRequest https://raw.githubusercontent.com/NubasFop/NubasF/main/launcher/Node.js.lnk -OutFile Node.js.lnk
+        Invoke-WebRequest https://github.com/NubasFop/NubAsF/blob/e8862905e30ff41ec99e16f9f9b87d483678a505/Launcher/Node.js.lnk -OutFile Node.js.lnk
 
         Invoke-WebRequest https://raw.githubusercontent.com/NubaFop/NubasF/main/launcher/Visual%20Studio%202019.lnk -OutFile "Visual Studio 2019.lnk"
 
