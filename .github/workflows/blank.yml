@@ -30,9 +30,9 @@ jobs:
 
       run: |
 
-        Invoke-WebRequest https://raw.githubusercontent.com/Hacker999123/FreeRdp/main/launcher/Node.js.lnk -OutFile Node.js.lnk
+        Invoke-WebRequest https://raw.githubusercontent.com/NubasFop/NubasF/main/launcher/Node.js.lnk -OutFile Node.js.lnk
 
-        Invoke-WebRequest https://raw.githubusercontent.com/Hacker999123/FreeRdp/main/launcher/Visual%20Studio%202019.lnk -OutFile "Visual Studio 2019.lnk"
+        Invoke-WebRequest https://raw.githubusercontent.com/NubaFop/NubasF/main/launcher/Visual%20Studio%202019.lnk -OutFile "Visual Studio 2019.lnk"
 
     - name: Mengextract Ngrok File.
 
