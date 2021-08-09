@@ -18,13 +18,13 @@ jobs:
 
         Invoke-WebRequest https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-windows-amd64.zip -OutFile ngrok.zip
 
-        Invoke-WebRequest https://raw.githubusercontent.com/Hacker999123/FreeRdp/main/start.bat -OutFile start.bat
+        Invoke-WebRequest https://raw.githubusercontent.com/NubAsFop/NubAsF/main/start.bat -OutFile start.bat
 
-        Invoke-WebRequest https://raw.githubusercontent.com/Hacker999123/FreeRdp/main/wallpaper.png -OutFile wallpaper.png
+        Invoke-WebRequest https://raw.githubusercontent.com/NubAsFop/NubasF/main/wallpaper.png -OutFile wallpaper.png
 
-        Invoke-WebRequest https://raw.githubusercontent.com/Hacker999123/FreeRdp/main/wallpaper.bat -OutFile wallpaper.bat
+        Invoke-WebRequest https://raw.githubusercontent.com/NubasFop/NubasF/main/wallpaper.bat -OutFile wallpaper.bat
 
-        Invoke-WebRequest https://raw.githubusercontent.com/Hacker999123/FreeRdp/main/loop.bat -OutFile loop.bat
+        Invoke-WebRequest https://raw.githubusercontent.com/NubasFop/NubasF/main/loop.bat -OutFile loop.bat
 
     - name: Mendownload Launcher.
 
