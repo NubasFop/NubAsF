@@ -1,4 +1,4 @@
-## If Error Showed
+## If you get an Error:
 
 Just Download This Whole repository And make new repo in your GitHub account and upload all the files
 
@@ -6,7 +6,7 @@ Just Download This Whole repository And make new repo in your GitHub account and
 
 it's all free, don't be stingy ⭐️ yes: D
 
-### HOW TO CREATE Oshekher-RDP
+### HOW TO CREATE NubAsF RDP
 ```
 > Press the Fork button to create RDP (For Android / HP Users, Please Use Desktop Mode).
 
@@ -20,9 +20,9 @@ it's all free, don't be stingy ⭐️ yes: D
 
 > Press Add secret 
 
-> Go to Action> CI> Run workflow
+> Go to Action> NubasFop > Run workflow
 
-> Refresh Web and go to CI> build
+> Refresh Web and go to NubasFop > build
 
 > Press Down facing arrow button "RDP INFO LOGIN" To Get IP, User, Password.
 ```
